@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Space+Grotesk:wght@300..700&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit", sans-serif;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #1e1e1e;
+  gap: 38px;
+}
+
+.header-text {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+.header-button {
+  background-color: #ffffff;
+  color: #1e1e1e;
+  border-radius: 28px;
+  padding: 8px 16px;
+}
