@@ -12,7 +12,8 @@ header {
   flex-direction: row;
   justify-content: center;
   background-color: #1e1e1e;
-  gap: 38px;
+  gap: 48px;
+  padding: 16px;
 }
 
 .header-text {
@@ -24,5 +25,5 @@ header {
   background-color: #ffffff;
   color: #1e1e1e;
   border-radius: 28px;
-  padding: 8px 16px;
+  padding: 8px 22px;
 }
